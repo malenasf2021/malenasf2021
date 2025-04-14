@@ -1,14 +1,15 @@
 # 👩‍💻 Malena Sánchez
 
-¡Hola! Mi nombre es **Malena Sánchez** y soy estudiante del **Profesorado de Informática** en modalidad **semipresencial**. Actualmente me encuentro cursando la unidad curricular **Programación II**.
+¡Hola! Mi nombre es **Malena Sánchez** y soy estudiante del **Profesorado de Informática** en modalidad **semipresencial**. 
+Actualmente me encuentro cursando la unidad curricular **Programación II**.
 
-Este espacio lo utilizo para compartir algunos de mis proyectos, prácticas y aprendizajes en el área de la programación y la informática educativa. Me interesa seguir creciendo en el mundo del desarrollo de software y en la aplicación de las tecnologías digitales en la enseñanza.
+Este espacio lo utilizo para compartir algunos de mis proyectos, prácticas y de la UC. 
+Me interesa seguir creciendo en la aplicación de las tecnologías digitales en la enseñanza.
 
-## 💻 Tecnologías que estoy aprendiendo
+## 💻 Este año estoy aprendiendo:
 
-- Lenguajes de programación: Python, Java, JavaScript
-- Desarrollo web: HTML, CSS
-- Git y GitHub para el control de versiones
+- Lenguaje de programación: Java
+- Git y GitHub
 
 ## 📚 Intereses
 
