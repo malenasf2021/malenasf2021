@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩‍💻 Malena Sánchez
 
-<!--
-**malenasf2021/malenasf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Mi nombre es **Malena Sánchez** y soy estudiante del **Profesorado de Informática** en modalidad **semipresencial**. Actualmente me encuentro cursando la unidad curricular **Programación II**.
 
-Here are some ideas to get you started:
+Este espacio lo utilizo para compartir algunos de mis proyectos, prácticas y aprendizajes en el área de la programación y la informática educativa. Me interesa seguir creciendo en el mundo del desarrollo de software y en la aplicación de las tecnologías digitales en la enseñanza.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías que estoy aprendiendo
+
+- Lenguajes de programación: Python, Java, JavaScript
+- Desarrollo web: HTML, CSS
+- Git y GitHub para el control de versiones
+
+## 📚 Intereses
+
+- Educación y tecnología
+- Pensamiento computacional
+- Herramientas digitales para la enseñanza
+
+---
+
+> “El aprendizaje es un tesoro que seguirá a su dueño a todas partes.” – Proverbio chino
+
+Gracias por visitar mi perfil 🤓🧉
