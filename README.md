@@ -10,6 +10,8 @@ Me interesa seguir creciendo en la aplicación de las tecnologías digitales en 
 
 - Lenguaje de programación: Java
 - Git y GitHub
+- IA: AA e IA generativa
+  
 
 ## 📚 Intereses
 
